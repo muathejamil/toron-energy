@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toron-energy/static/css/main.e53d165c.css",
+    "main.js": "/toron-energy/static/js/main.45c036ab.js",
+    "index.html": "/toron-energy/index.html",
+    "main.e53d165c.css.map": "/toron-energy/static/css/main.e53d165c.css.map",
+    "main.45c036ab.js.map": "/toron-energy/static/js/main.45c036ab.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e53d165c.css",
+    "static/js/main.45c036ab.js"
+  ]
+}
